@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Li_Leung</string>
     <string name="my_device">My Device</string>
+    <string name="create_event">Create Eevent</string>
+    <string name="Search_event">Search</string>
+    <string name="add_pledge">Add Pledge</string>
+    <string name="search_event">Search</string>
 </resources>
