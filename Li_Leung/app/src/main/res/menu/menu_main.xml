@@ -2,8 +2,23 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:id="@+id/action_request_info"
-        android:title="@string/my_device"
+    <item android:id="@+id/action_create_event"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="@string/action_add_event"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_search_event"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/action_search_event"
+        android:orderInCategory="2"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_add_items"
         android:icon="@drawable/ic_more_vert_black_24dp"
-        android:showAsAction="ifRoom|withText"/>
+        android:title="@string/action_add_event"
+        android:orderInCategory="3"
+        app:showAsAction="collapseActionView"/>
+
+
 </menu>

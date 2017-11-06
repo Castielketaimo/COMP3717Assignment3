@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".CreateUpdateEvent" />
+        <activity android:name=".AddItem" />
+        <activity android:name=".UpdateDetail"></activity>
     </application>
 
 </manifest>

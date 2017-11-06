@@ -1,4 +1,28 @@
 <resources>
     <string name="app_name">Li_Leung</string>
-    <string name="my_device">My Device</string>
+    <string name="action_add_event">add_event</string>
+    <string name="action_search_event">search_event</string>
+    <string name="action_add_item">add item</string>
+    <string name="action_extra_functions">extra_functions</string>
+    <string name="name">Name</string>
+    <string name="units">Units</string>
+    <string name="select_time">Select Time</string>
+    <string name="select_date">Select Date</string>
+    <string name="event_name">Event Name</string>
+    <string name="create_event">Create Event</string>
+    <string name="add_item">Add item</string>
+    <string name="unit">Unit</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="edit_event">Edit event</string>
+    <string name="delete_event">Delete event</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="update_item">update item</string>
+    <array name="TESTDATA">
+        <item>TestData 1</item>
+        <item>TestData 2</item>
+        <item>TestData 3</item>
+        <item>TestData 4</item>
+        <item>TestData 5</item>
+    </array>
 </resources>
